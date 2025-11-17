@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Visualizador de Dados Fundeb RS",
+  "description": "Uma aplicação interativa para visualizar e analisar os dados de receitas do Fundeb para os municípios do Rio Grande do Sul, com insights gerados por IA.",
+  "requestFramePermissions": []
+}
